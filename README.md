@@ -3,8 +3,6 @@ This repository contains a complete machine learning pipeline for Arabic dialect
 
 The project investigates how well models can generalize across different text domains (Comedy, Drama, Kids) and examines the impact of domain shifts on classification performance.
 
--------------------------------------------
-
 # Project Overview
 Arabic dialect classification is challenging due to variations in vocabulary, pronunciation, and linguistic style across regions.
 This project evaluates two models:
